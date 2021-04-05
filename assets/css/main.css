@@ -3377,7 +3377,7 @@
 			display: grid;
 		  width: 100%;
 		  grid-gap: 1rem;
-		  grid-template-columns: repeat(auto-fit, minmax(80rem, 0fr));
+		  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
 		  align-items: start;
 			text-align: center;
 			justify-content: space-evenly;

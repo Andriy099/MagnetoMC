@@ -1,2 +1,0 @@
-# MagnetoMC
-MagnetoMC Company
